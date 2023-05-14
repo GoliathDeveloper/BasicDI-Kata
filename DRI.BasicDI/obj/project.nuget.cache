@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "1P+tRTk2L9Y9rnfxrCq4JKWYavN+PDYW/ZDc33NYzL4PkFXEHUuarLD8lCRCLL6iCNNwk2oMlE4HlCVYfUEwhQ==",
+  "success": true,
+  "projectFilePath": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI/DRI.BasicDI.csproj",
+  "expectedPackageFiles": [
+    "/Users/philipguerreiro/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/philipguerreiro/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

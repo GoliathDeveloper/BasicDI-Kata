@@ -1,0 +1,10 @@
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\bin\Debug\netcoreapp2.1\DRI.BasicDI.deps.json
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\bin\Debug\netcoreapp2.1\DRI.BasicDI.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\bin\Debug\netcoreapp2.1\DRI.BasicDI.pdb
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\obj\Debug\netcoreapp2.1\DRI.BasicDI.csproj.AssemblyReference.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\obj\Debug\netcoreapp2.1\DRI.BasicDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\obj\Debug\netcoreapp2.1\DRI.BasicDI.AssemblyInfoInputs.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\obj\Debug\netcoreapp2.1\DRI.BasicDI.AssemblyInfo.cs
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\obj\Debug\netcoreapp2.1\DRI.BasicDI.csproj.CoreCompileInputs.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\obj\Debug\netcoreapp2.1\DRI.BasicDI.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Shared Private\SSG_DRI.BasicDI (1)\sonq-dri.basicdi-2a845f141c30\DRI.BasicDI\obj\Debug\netcoreapp2.1\DRI.BasicDI.pdb

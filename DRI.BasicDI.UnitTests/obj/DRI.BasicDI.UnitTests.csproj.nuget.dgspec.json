@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI.UnitTests/DRI.BasicDI.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI.UnitTests/DRI.BasicDI.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI.UnitTests/DRI.BasicDI.UnitTests.csproj",
+        "projectName": "DRI.BasicDI.UnitTests",
+        "projectPath": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI.UnitTests/DRI.BasicDI.UnitTests.csproj",
+        "packagesPath": "/Users/philipguerreiro/.nuget/packages/",
+        "outputPath": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/philipguerreiro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/x64/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI/DRI.BasicDI.csproj": {
+                "projectPath": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI/DRI.BasicDI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI/DRI.BasicDI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI/DRI.BasicDI.csproj",
+        "projectName": "DRI.BasicDI",
+        "projectPath": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI/DRI.BasicDI.csproj",
+        "packagesPath": "/Users/philipguerreiro/.nuget/packages/",
+        "outputPath": "/Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/philipguerreiro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/x64/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

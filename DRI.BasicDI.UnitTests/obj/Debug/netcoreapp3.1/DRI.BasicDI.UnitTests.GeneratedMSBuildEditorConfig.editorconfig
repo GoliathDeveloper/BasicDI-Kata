@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DRI.BasicDI.UnitTests
+build_property.ProjectDir = /Users/philipguerreiro/Downloads/basicdi/DRI.BasicDI.UnitTests/

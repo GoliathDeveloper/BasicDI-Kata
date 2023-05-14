@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DRI.BasicDI/1.0.0": {
+        "runtime": {
+          "DRI.BasicDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DRI.BasicDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
